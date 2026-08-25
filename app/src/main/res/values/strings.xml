@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Job Board Auto</string>
+    <string name="accessibility_service_description">Reads job-board prices, scrolls the board, and accepts jobs at or above the selected threshold when armed.</string>
+</resources>
